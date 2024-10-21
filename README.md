@@ -1,6 +1,10 @@
+[📥 Download PDF File](https://raw.githubusercontent.com/mrjxtr/research-report-proj/main/reports/SaaS_Industry_Future_Trends_Jester_Lumacad.pdf)
+
 # 📊 Research Report Project
 
 This project focuses on creating visualizations for the research report analysis of trends in AI SaaS, Low-code, and Vertical SaaS interest over time using Python, pandas, and matplotlib. 🐍📈
+
+![Research Report Project](./reports/figures/fig_001_Comparison_AI_SaaS_Low_code_Vertical_SaaS_Interest.png)
 
 ## 📁 Project Structure
 
@@ -179,3 +183,5 @@ print(f"Figure saved to {export_dir}")
 ## 🛠️ Customization
 
 To modify plot aesthetics or add new visualizations, refer to the `src/utility/plots_cfg.py` file for theme settings and color palette definitions.
+
+[📥 Download PDF File](https://raw.githubusercontent.com/mrjxtr/research-report-proj/main/reports/SaaS_Industry_Future_Trends_Jester_Lumacad.pdf)
