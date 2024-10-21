@@ -1,0 +1,29 @@
+\research-report-project   <- Project Folder.
+│
+├── LICENSE                <- Open-source license if one is chosen.
+├── README.md              <- The top-level README for developers using this project.
+├── requirements.txt       <- The requirements file for reproducing the analysis environment, e.g.
+│                             generated with `pip freeze > requirements.txt`.
+├── data
+│   ├── \processed           <- The final, canonical data sets for modeling.
+│   └── \raw                 <- The original, immutable data dump.
+│
+├── docs                   <- Documentation of business task, deliverables, scope of work, etc.
+│
+├── notebooks              <- Jupyter notebooks. 
+│
+├── references             <- Data dictionaries, manuals, and all other explanatory materials.
+│
+├── reports                <- Generated analysis as HTML, PDF, etc.
+│   └── \figures             <- Generated graphics and figures to be used in reporting.
+│
+└── src                    <- Source code for use in this project.
+    ├── __init__.py          <- Makes src a Python module.
+    │
+    ├── plots.py             <- Code to create exploratory and results oriented visualizations.
+    │
+    ├── utility              <- Scripts that serves as modules to import to make workflow more efficient.
+    │   ├── __init__.py
+    │   ├── config.py         <- Code to store useful variables and configuration.
+    │   ├── plots_cfg.py      <- Code to store plots configuration.
+    │   ├── plots_save.py        <- Code for saving plots.
